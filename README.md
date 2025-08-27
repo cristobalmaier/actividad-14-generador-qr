@@ -25,3 +25,10 @@ Una aplicación web moderna y fácil de usar para generar códigos QR personaliz
 - CSS3 (con variables CSS y diseño responsive)
 - JavaScript (Vanilla)
 - [QRCode.js](https://davidshimjs.github.io/qrcodejs/) - Biblioteca para generar códigos QR
+
+## Demo
+
+https://actividad-14-generador-qr.vercel.app/
+
+## 
+
