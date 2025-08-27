@@ -1,6 +1,6 @@
 # 📱 Generador de Código QR
 
-Una aplicación web moderna y fácil de usar para generar códigos QR personalizables. Creada como parte de la actividad 14 para PWD 7° 2°.
+Una aplicación web moderna y fácil de usar para generar códigos QR personalizables.
 
 ## Características ✨
 
